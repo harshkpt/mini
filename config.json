@@ -1,0 +1,7 @@
+{
+  "host":"YOUR_SERVER.aternos.me",
+  "port":25565,
+  "username":"BotName",
+  "version":"1.21.4",
+  "auth":"offline"
+}
