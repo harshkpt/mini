@@ -1,7 +1,7 @@
 {
-  "host":"par890-eBNR.aternos.me",
-  "port":34320,
+  "host":"par890.aternos.me",
+  "port":58682,
   "username":"PKbhai",
-  "version":"false",
+  "version":"1.21.4",
   "auth":"offline"
 }
